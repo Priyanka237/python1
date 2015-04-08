@@ -1,0 +1,6 @@
+_VAR1 = int(input("enter interger value"))
+print(_VAR1)
+_VAR1 = float(input("enter float value"))
+print(_VAR1)
+print("int var is:")
+print(int(_VAR1))
